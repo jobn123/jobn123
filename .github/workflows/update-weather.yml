@@ -27,5 +27,5 @@ jobs:
             git config user.email github-actions@github.com
             git add .
             git commit -m "update"
-            git push origin main
-          fia[]
+            git push origin master
+          fi
