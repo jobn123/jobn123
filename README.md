@@ -33,17 +33,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.5 °C</td><td>19 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>16.9 °C</td><td>16.3 °C</td><td>15.8 °C</td><td>15.5 °C</td><td>16.3 °C</td><td>18 °C</td><td>18.4 °C</td><td>19.5 °C</td><td>20.4 °C</td><td>21.2 °C</td><td>21.7 °C</td><td>22 °C</td><td>21.8 °C</td><td>20.8 °C</td><td>19.8 °C</td><td>19.1 °C</td><td>18.1 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>16.2 °C</td>
+        <td>19.5 °C</td><td>19 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>16.9 °C</td><td>16.3 °C</td><td>15.8 °C</td><td>15.5 °C</td><td>16.3 °C</td><td>17.3 °C</td><td>19 °C</td><td>19.5 °C</td><td>20.4 °C</td><td>21.2 °C</td><td>21.7 °C</td><td>22 °C</td><td>21.8 °C</td><td>20.8 °C</td><td>19.8 °C</td><td>19.1 °C</td><td>18.1 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>16.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>11.2 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.8 kph</td>
+        <td>11.5 kph</td><td>11.2 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-26T01:21:20Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-26T02:28:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
